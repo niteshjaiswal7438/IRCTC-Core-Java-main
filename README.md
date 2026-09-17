@@ -104,10 +104,7 @@ git clone https://github.com/Vedantji3/IRCTC-Core-Java.git
 
 ## 👨‍💻 Author
 
-**Vedant Jadhav**
+**Nitesh Jaiswal**
 
-GitHub: https://github.com/Vedantji3
-
----
 
 ⭐ If you found this project helpful, consider giving it a Star.
